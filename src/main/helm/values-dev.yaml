@@ -1,0 +1,6 @@
+config:
+  host: devx-helloworld-springboot-supyf.nonp-dev-4.use1.eng-nonprod.flexport.internal
+  namespace: devx-helloworld-springboot-supyf-dev
+  image:
+    name: artifactory.flexport.io/devx-helloworld-springboot-supyf-docker-dev-local/devx-helloworld-springboot-supyf
+    tag: 0.0.1-SNAPSHOT
